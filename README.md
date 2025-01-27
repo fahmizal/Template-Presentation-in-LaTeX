@@ -4,6 +4,6 @@ Departemen Teknik Elektro dan Informatika Sekolah Vokasi UGM Dikembangkan oleh D
 
 Perangkat lunak yang digunakan untuk mengolah LaTEX pada template ini adalah
 
-TeXstudio
-MiKTex
-Overleaf (LaTEX editor berbasis daring)
+-TeXstudio
+-MiKTex
+-Overleaf (LaTEX editor berbasis daring)
